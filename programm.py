@@ -1,5 +1,7 @@
-def k():
+def greetWhite():
     print("hello white")
 
-print("hello")
+def greetBlack():
+    print("hello black")
+
 print("hello everyone")
